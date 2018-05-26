@@ -10,7 +10,7 @@
 
 warning off
 % Load training and testing data
-DataPath   = 'data_rice';
+DataPath   = 'YaleB_Jiang';
 load(DataPath);
 
 
